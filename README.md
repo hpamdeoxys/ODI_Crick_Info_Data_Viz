@@ -1,5 +1,5 @@
 # ODI_Crick_Info_Data_Viz
-Collected data of all the ICC cricket tournaments from 1971 until 2019 and solved the following questions using various Data Visualization techniques:
+Collected data of all the ICC cricket tournaments from 1971 until 2019 and solved the following questions using various Data Visualization plotting techniques:
 1. Display the histogram that represents year-wise number of matches played by an input country given.
 2. Filter out the dataset based on the year given. (Ex: 2018)
 **Question No. 3 onwards, consider the year 2018 only for experimentation.
